@@ -182,3 +182,13 @@ button{
 
 /* comment box design end */
 
+/* responsive design start */
+
+@media (max-width: 575px) {
+    .container{
+        width: 100%;
+        min-width: 100%;
+    }
+}
+
+/* responsive design end */
